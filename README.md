@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, Python, R**
 
-- 📫 How to reach me **reginajdoria@gmail.com**
+- 📫 Reach me at **reginajdoria@gmail.com**
 
 - ⚡ Fun fact **I just finished the main quest line in Skyrim!**
 
